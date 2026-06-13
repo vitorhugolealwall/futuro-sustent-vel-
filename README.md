@@ -1,10 +1,10 @@
-# 🌱 AgroSustentável - Agricultura Sustentável
+# 🌱 Agricultura Sustentável
 
 Um site moderno e responsivo dedicado à promoção de práticas de agricultura sustentável e educação ambiental.
 
 ## 📋 Sobre o Projeto
 
-AgroSustentável é uma plataforma web que apresenta informações completas sobre agricultura sustentável, incluindo:
+Agricultura Sustentável é uma plataforma web que apresenta informações completas sobre agricultura sustentável, incluindo:
 
 - **Conceitos fundamentais** sobre sustentabilidade na agricultura
 - **Práticas recomendadas** para cultivo responsável
@@ -138,7 +138,7 @@ Contribuições são bem-vindas! Para contribuir:
 ## 📞 Contato
 
 Para dúvidas ou sugestões sobre este projeto, entre em contato através:
-- **Email**: contato@agrosustentavel.com
+- **Email**: contato@agriculturaustentavel.com
 - **GitHub**: [@vitorhugolealwall](https://github.com/vitorhugolealwall)
 
 ## 📜 Licença
